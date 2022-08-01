@@ -1,0 +1,89 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "How family and culture propelled Sikh Canadian to basketball success | CBC Sports",
+      "description": "As one of the only Sikh-Canadian basketball players competing at the professional level, Bikramjit Singh Gill has long been a role model in his community.",
+      "url": "http://www.cbc.ca/sports/olympics/summer/basketball/bikramjit-singh-gill-basketball-india-1.6511831",
+      "urlToImage": "https://i.cbc.ca/1.6523965.1658159436!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gill-1.jpg",
+      "publishedAt": "2022-07-21T17:22:22.6821306Z",
+      "content": "In 2015, Bikramjit Singh Gill looked a bit different than he does now. His broad 6-foot-7 frame still stands out in a crowd, but today the 30-year-old Malton, Ont. native has a bushy beard and long h… [+5953 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "MLB odds: All-Star Break mid-term grades, best futures bets to make",
+      "description": "Mid-terms are here! FOX Sports MLB Betting Analyst Edward Egros examines the favorites with a perfect score and potential futures bets.",
+      "url": "http://www.foxsports.com/stories/mlb/mlb-odds-all-star-break-mid-term-grades-best-futures-bets-to-make",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/1408/814/07.13.22_MidSeasonAwards_Horizontal.jpg?ve=1&tl=1",
+      "publishedAt": "2022-07-21T16:14:14Z",
+      "content": "By Edward EgrosFOX Sports MLB Betting Analyst\r\nThe professor is back!\r\nAnd while others may give out midseason awards, I prefer handing out grades, specifically highlighting those that deserve an A+ … [+8064 chars]"
+    },
+    {
+      "source": { "id": "google-news-fr", "name": "Google News (France)" },
+      "author": "Andy Barréjot",
+      "title": "DIRECT. \"Pour ces Jeux Olympiques, c'est l'héritage qui sera important\" déclare Emmanuel Macron en visite à Ta",
+      "description": "Le président de la République Emmanuel Macron est en visite dans les Hautes-Pyrénées, ce jeudi. Au programme, découverte de l'Usine des sports à Tarbes avec des démonstrations assurées par des enfants, rencontre avec les éleveurs touchés par les prédations du…",
+      "url": "https://www.nrpyrenees.fr/2022/07/21/direct-le-president-de-la-republique-emmanuel-macron-commence-sa-visite-dans-les-hautes-pyrenees-a-tarbes-10448010.php",
+      "urlToImage": "https://images.nrpyrenees.fr/api/v1/images/view/62d92545e4379554220e40f9/large/image.jpg?v=1",
+      "publishedAt": "2022-07-21T08:05:00+00:00",
+      "content": "Le président de la République Emmanuel Macron est en visite dans les Hautes-Pyrénées, ce jeudi. Au programme, découverte de l'Usine des sports à Tarbes avec des démonstrations assurées par des enfant… [+4341 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "Is it Sports? Aaron Rodgers, Zach Wilson, NFL QBs causing offseason drama",
+      "description": "What have the NFL's biggest names been up to in their offseason? Quite a lot, in fact. But is it Sports? Charlotte Wilder decides.",
+      "url": "http://www.foxsports.com/stories/nfl/is-it-sports-aaron-rodgers-zach-wilson-nfl-qbs-causing-offseason-drama",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/1408/814/07.20.22_Is-it-sports_A-look-at-QB-gossip_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-07-20T19:54:46Z",
+      "content": "By Charlotte WilderFOX Sports Columnist\r\nWhen you think of sports, you probably think of a game played on a field or a court. You think of athletes and coaches, season tickets and hot dogs, the elati… [+10205 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "⭐ &#x27;The Champions&#x27; Season Finale ⭐",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/244201-the-champions-season-6-episode-3",
+      "urlToImage": null,
+      "publishedAt": "2022-06-15T17:37:27.3831502Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "Live Bradley Beal Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/244886-taylor-rooks-x-bradley-beal",
+      "urlToImage": null,
+      "publishedAt": "2022-06-15T17:22:35.1827416Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+  ]
+}
